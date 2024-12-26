@@ -1,0 +1,43 @@
+{
+   "restaurants": {
+      "nom": "Steakhouse Texas Grill",
+      "adresse": "20 Main Street, Austin",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "image": "texas_grill.jpg",
+      "menus": [
+         {
+            "type_menu": "Entrée",
+            "descriptionMenu": "Nachos au fromage fondu"
+         },
+         {
+            "type_menu": "Plat principal",
+            "descriptionMenu": "T-Bone steak grillé"
+         },
+         {
+            "type_menu": "Dessert",
+            "descriptionMenu": "Cheesecake à la vanille"
+         }
+      ],
+      "horaires": [
+         {
+            "jour": "Lundi",
+            "ouverture": "17:00 - 22:00"
+         },
+         {
+            "jour": "Mercredi",
+            "ouverture": "17:00 - 23:00"
+         }
+      ],
+      "commentaires": [
+         {
+            "contenu": "Un steak parfait, cuit à la perfection.",
+            "note": 5
+         },
+         {
+            "contenu": "Portions généreuses et savoureuses.",
+            "note": 4
+         }
+      ]
+   }
+}
