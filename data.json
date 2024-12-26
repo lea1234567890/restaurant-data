@@ -6,7 +6,7 @@
          "latitude": 30.2672,
          "longitude": -97.7431,
          "image": "texas_grill.jpg",
-         "menus": [
+         "sesMenus": [
             {
                "type_menu": "Entrée",
                "descriptionMenu": "Nachos au fromage fondu"
@@ -20,7 +20,7 @@
                "descriptionMenu": "Cheesecake à la vanille"
             }
          ],
-         "horaires": [
+         "sesHoraires": [
             {
                "jour": "Lundi",
                "ouverture": "17:00 - 22:00"
@@ -30,7 +30,7 @@
                "ouverture": "17:00 - 23:00"
             }
          ],
-         "commentaires": [
+         "sesCommentaires": [
             {
                "contenu": "Un steak parfait, cuit à la perfection.",
                "note": 5
