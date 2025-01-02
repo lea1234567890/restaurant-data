@@ -10800,8 +10800,6 @@
     ]
 },
         {
-    "restaurants": [
-        {
             "nom": "Le Pavillon Bleu",
             "adresse": "18 Rue de la Paix, 75002 Paris",
             "latitude": 48.8681,
@@ -10914,9 +10912,7 @@
                     "note": 5
                 }
             ]
-        }
-    ]
-}, 
+        }, 
         {
     "nom": "La Maison Bleue",
     "adresse": "15 Rue des Martyrs, 75009 Paris",
