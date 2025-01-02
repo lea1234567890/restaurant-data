@@ -733,6 +733,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Salade de fruits frais"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartine d'oursin à la fleur de sel"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf au foie gras poêlé"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille à la crème de marron"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Mille-feuille de crabe aux pommes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lièvre à la royale"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Poire pochée au vin rouge"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Croustillant d'escargots aux herbes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré de porcelet au miel"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Bourdaloue aux poires"
                 }
             ],
             "sesHoraires": [
@@ -786,6 +822,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Soupe de fraises à la menthe"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Langoustines flambées au cognac"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Turbot aux coquillages"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé glacé à la chartreuse"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Œuf mollet aux morilles"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Veau Orloff"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Bavarois aux fruits rouges"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de truffes noires"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Chapon farci aux marrons"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crêpes Suzette"
                 }
             ],
             "sesHoraires": [
@@ -839,6 +911,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Cheesecake citron vert"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Royale de foie blond"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sole aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mont-blanc revisité"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare d'huîtres au caviar"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de bœuf au foin"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau Saint-Honoré"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Mousseline de langouste"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeonneau en vessie"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mille-feuille aux agrumes"
                 }
             ],
             "sesHoraires": [
@@ -892,6 +1000,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Pavlova exotique"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de homard au safran"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Agneau de pré-salé"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au chocolat grand cru"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Consommé de bœuf aux truffes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar de ligne au caviar"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Savarin au rhum agricole"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de gibier aux noisettes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Canard à la presse"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Bombe glacée au chocolat"
                 }
             ],
             "sesHoraires": [
@@ -945,6 +1089,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Glace artisanale trois parfums"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Avocat au tourteau"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de veau aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest aux trois chocolats"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Queue de homard en bellevue"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bécasse en salmis"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Omelette norvégienne"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Pâté en croûte de volaille"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Pierre aux câpres"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tartelette aux figues"
                 }
             ],
             "sesHoraires": [
@@ -998,6 +1178,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Moelleux aux amandes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de poisson de roche"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Noisette de chevreuil"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Beignets aux pommes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de poulpes grillés"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poularde en demi-deuil"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème brûlée à la vanille"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de bœuf au parmesan"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lotte à l'armoricaine"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tartelette au citron"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de langoustines"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de biche aux airelles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Profiteroles au café"
                 }
             ],
             "sesHoraires": [
@@ -1051,6 +1279,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tartelette au citron meringuée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de potimarron"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Caille farcie au foie gras"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux abricots"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Feuilleté aux champignons"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Gigot d'agneau au thym"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Charlotte aux poires"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade tiède de rougets"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré d'agneau en croûte"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crumble aux fruits rouges"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de daurade"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pavé de biche rôti"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau au chocolat"
                 }
             ],
             "sesHoraires": [
@@ -1104,6 +1380,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Pain perdu brioché"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de moules"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Magret aux figues"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte aux fraises"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Rillettes de saumon"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Suprême de volaille"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mousse au chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade César"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Entrecôte grillée"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Panna cotta"
                 }
             ],
             "sesHoraires": [
@@ -1157,6 +1469,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Cannelés bordelais"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Gaspacho andalou"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Dorade au four"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tiramisu classique"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Assiette de charcuterie"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côtelettes d'agneau"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème caramel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe à l'oignon"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poulet rôti"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte aux pommes"
                 }
             ],
             "sesHoraires": [
@@ -2217,6 +2565,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Financier aux amandes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Melon au porto"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Steak tartare"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Île flottante"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tomates mozzarella"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poisson du jour"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Fondant au chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade verte"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bavette à l'échalote"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Fromage blanc"
                 }
             ],
             "sesHoraires": [
@@ -3330,6 +3714,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Cheesecake à la vanille"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tomates mozzarella"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Steak au poivre"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Panna cotta aux fruits"
                 }
             ],
             "sesHoraires": [
@@ -3375,6 +3771,30 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Crème brûlée à la vanille"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe à l'oignon gratinée"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bavette à l'échalote"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Far breton aux pruneaux"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Melon au jambon cru"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Andouillette grillée"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Île flottante"
                 }
             ],
             "sesHoraires": [
@@ -3420,6 +3840,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Mochis glacés"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Œuf mollet aux épinards"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rognons de veau flambés"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mousse au chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de gésiers confits"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de canette rôtie"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tiramisu classique"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartine aux champignons"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lapin à la moutarde"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte aux pommes"
                 }
             ],
             "sesHoraires": [
@@ -3465,6 +3921,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tiramisu traditionnel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crémeux de chou-fleur"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Agneau confit sept heures"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest traditionnel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ceviche de daurade royale"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Tournedos sauce périgueux"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Vacherin glacé"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Escargots de Bourgogne"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sandre au beurre blanc"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème caramel maison"
                 }
             ],
             "sesHoraires": [
@@ -3510,6 +4002,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Brownie fondant"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de poissons maison"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de bœuf à la moelle"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crumble aux pommes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de crabe royal"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poularde demi-deuil"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé au Grand Marnier"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Foie gras aux figues"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar en croûte d'herbes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Royal au chocolat"
                 }
             ],
             "sesHoraires": [
@@ -3555,6 +4083,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Churros au chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Bisque de langoustines"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Magret aux pêches rôties"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau basque traditionnel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de veau aux huîtres"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sole meunière aux câpres"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Éclair café-chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de crabe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Quasi de veau aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tartelette aux fraises"
                 }
             ],
             "sesHoraires": [
@@ -3600,6 +4164,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte au citron"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Saumon fumé maison à l'aneth"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Pierre aux agrumes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Profiteroles au chocolat noir"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de homard bleu"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Noisettes d'agneau au thym"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Tatin traditionnelle"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Feuilleté de ris de veau"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Canette aux olives"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mille-feuille praliné"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de gibier aux pistaches"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rouget barbet en écailles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Île flottante caramel"
                 }
             ],
             "sesHoraires": [
@@ -3645,6 +4257,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Nougat chinois"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de thon rouge aux épices"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Cochon de lait confit"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au citron meringuée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Asperges vertes à la vinaigrette"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poitrine de volaille farcie aux cèpes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème brûlée à la pistache"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de poulpe à l'espagnole"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Forêt noire classique"
                 }
             ],
             "sesHoraires": [
@@ -3690,6 +4338,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gulab jamun"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Pressé de volaille aux morilles"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lotte rôtie au jambon ibérique"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Baba au rhum passion"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crème de cèpes au lard fumé"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré d'agneau en croûte d'olive"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Pavlova aux fruits exotiques"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Huîtres tièdes au champagne"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Ris de veau aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Saint-Honoré crème chiboust"
                 }
             ],
             "sesHoraires": [
@@ -3735,6 +4419,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gâteau aux baies sauvages"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de courge et châtaignes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de veau au sautoir"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille à la vanille bourbon"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Mousseline de homard aux herbes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeon rôti aux raisins"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux poires caramélisées"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de champignons à la truffe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar de ligne aux coquillages"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Charlotte aux framboises"
                 }
             ],
             "sesHoraires": [
@@ -3780,6 +4500,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Flan caramel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Marbré de foie gras aux cerises"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf Wellington"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau Opéra au café"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de noix de Saint-Jacques au yuzu"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Agneau de l'Aveyron aux herbes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest à la crème de noisettes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Queue de langoustine en tempura"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Turbot rôti au vin jaune"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé au chocolat Guanaja"
                 }
             ],
             "sesHoraires": [
@@ -3825,6 +4581,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Pavlova aux fruits exotiques"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartine aux champignons"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lapin à la moutarde"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte aux pommes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe à l'oignon gratinée"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bavette à l'échalote"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Far breton aux pruneaux"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Melon au jambon cru"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Andouillette grillée"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Île flottante"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tomates mozzarella"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Steak au poivre"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Panna cotta aux fruits"
                 }
             ],
             "sesHoraires": [
@@ -3870,6 +4674,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte Tatin"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Escargots de Bourgogne"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sandre au beurre blanc"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème caramel maison"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Œuf mollet aux épinards"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rognons de veau flambés"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mousse au chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de gésiers confits"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de canette rôtie"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tiramisu classique"
                 }
             ],
             "sesHoraires": [
@@ -3915,6 +4755,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Pastilla au lait et amandes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Foie gras aux figues"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar en croûte d'herbes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Royal au chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crémeux de chou-fleur"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Agneau confit sept heures"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest traditionnel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ceviche de daurade royale"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Tournedos sauce périgueux"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Vacherin glacé"
                 }
             ],
             "sesHoraires": [
@@ -3960,6 +4836,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Strudel aux pommes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de crabe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Quasi de veau aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tartelette aux fraises"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de poissons maison"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de bœuf à la moelle"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crumble aux pommes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de crabe royal"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poularde demi-deuil"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé au Grand Marnier"
                 }
             ],
             "sesHoraires": [
@@ -4005,6 +4917,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Suji Halwa"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de gibier aux pistaches"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rouget barbet en écailles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Île flottante caramel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Bisque de langoustines"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Magret aux pêches rôties"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau basque traditionnel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de veau aux huîtres"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sole meunière aux câpres"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Éclair café-chocolat"
                 }
             ],
             "sesHoraires": [
@@ -4050,6 +4998,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Skyr aux baies sauvages"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Saumon fumé maison à l'aneth"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Pierre aux agrumes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Profiteroles au chocolat noir"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de homard bleu"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Noisettes d'agneau au thym"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Tatin traditionnelle"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Feuilleté de ris de veau"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Canette aux olives"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mille-feuille praliné"
                 }
             ],
             "sesHoraires": [
@@ -4095,6 +5079,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Brigadeiro"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Saumon fumé maison à l'aneth"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Pierre aux agrumes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Profiteroles au chocolat noir"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de homard bleu"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Noisettes d'agneau au thym"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Tatin traditionnelle"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Feuilleté de ris de veau"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Canette aux olives"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mille-feuille praliné"
                 }
             ],
             "sesHoraires": [
@@ -4140,6 +5160,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Cannelés bordelais"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de thon rouge aux épices"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Cochon de lait confit"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au citron meringuée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Asperges vertes à la vinaigrette"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poitrine de volaille farcie aux cèpes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème brûlée à la pistache"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de poulpe à l'espagnole"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Forêt noire classique"
                 }
             ],
             "sesHoraires": [
@@ -4185,6 +5241,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Calissons d'Aix"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Pressé de volaille aux morilles"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lotte rôtie au jambon ibérique"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Baba au rhum passion"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crème de cèpes au lard fumé"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré d'agneau en croûte d'olive"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Pavlova aux fruits exotiques"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Huîtres tièdes au champagne"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Ris de veau aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Saint-Honoré crème chiboust"
                 }
             ],
             "sesHoraires": [
@@ -4230,6 +5322,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Kouign-amann"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de courge et châtaignes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de veau au sautoir"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille à la vanille bourbon"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Mousseline de homard aux herbes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeon rôti aux raisins"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux poires caramélisées"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de champignons à la truffe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar de ligne aux coquillages"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Charlotte aux framboises"
                 }
             ],
             "sesHoraires": [
@@ -4275,6 +5403,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gâteau de Savoie"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Marbré de foie gras aux cerises"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf Wellington"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau Opéra au café"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de noix de Saint-Jacques au yuzu"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Agneau de l'Aveyron aux herbes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest à la crème de noisettes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Queue de langoustine en tempura"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Turbot rôti au vin jaune"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé au chocolat Guanaja"
                 }
             ],
             "sesHoraires": [
@@ -4320,6 +5484,30 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Kougelhopf glacé"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ceviche de daurade"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Cuisse de canard confite"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mousse au chocolat noir"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Œufs cocotte aux cèpes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de porc ibérique"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte aux pommes normande"
                 }
             ],
             "sesHoraires": [
@@ -4365,6 +5553,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte aux pommes normande"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tatin d'endives au roquefort"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Cabillaud en croûte d'herbes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Poire Belle-Hélène"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Avocat aux crevettes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côtelettes d'agneau grillées"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tiramisu traditionnel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Saumon mariné à l'aneth"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Paleron de bœuf braisé"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Éclair au café"
                 }
             ],
             "sesHoraires": [
@@ -4410,6 +5634,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Mirabelles rôties"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soufflé au fromage"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lotte au lard fumé"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème caramel à l'ancienne"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Feuilleté aux champignons"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lapin à la moutarde"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Île flottante aux pralines roses"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Sardines marinées à l'huile"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rognons de veau au porto"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau au chocolat mi-cuit"
                 }
             ],
             "sesHoraires": [
@@ -4455,6 +5715,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Croustade aux pommes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Queue de bœuf en gelée"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sandre au beurre blanc"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Dacquoise aux fruits rouges"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de ris de veau aux truffes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Cochon ibérique à la sauge"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau basque à la cerise noire"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de chevreuil aux noisettes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rouget barbet en écailles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mont-blanc aux marrons glacés"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Moules gratinées au champagne"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf en brioche"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux abricots"
                 }
             ],
             "sesHoraires": [
@@ -4500,6 +5808,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gaufre lilloise"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de poissons de roche"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Gigot d'agneau de sept heures"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Religieuse au café"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Pâté en croûte maison"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bar aux coques"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Vacherin glacé vanille-framboise"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Croustillant de gambas au basilic"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poularde demi-deuil"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au chocolat grand cru"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de homard à la citronnelle"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Agneau de lait des Pyrénées"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille aux fruits exotiques"
                 }
             ],
             "sesHoraires": [
@@ -4545,6 +5901,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gâteau nantais"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crémeux de champignons aux noisettes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rôti de veau aux chanterelles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Forêt noire revisitée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Huîtres chaudes au sabayon"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Canette rôtie aux pêches"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Croustillant praliné-noisette"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crabe royal en rémoulade"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Tournedos Rossini"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé glacé à la chartreuse"
                 }
             ],
             "sesHoraires": [
@@ -4590,6 +5982,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Far breton"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Asperges blanches sauce mousseline"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeon en croûte de fruits secs"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Saint-Honoré à la vanille"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Bisque de homard au cognac"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré d'agneau au thym"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Baba au rhum aux agrumes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de veau aux huîtres"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sole meunière aux amandes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte aux fraises des bois"
                 }
             ],
             "sesHoraires": [
@@ -4635,6 +6063,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte aux noix de Grenoble"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Foie gras mi-cuit au Sauternes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Pierre aux artichauts barigoule"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Profiteroles au chocolat Valrhona"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de bœuf à la truffe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Volaille de Bresse aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mille-feuille caramel beurre salé"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Langoustines rôties au beurre blanc"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de biche sauce grand veneur"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Tatin aux pommes caramélisées"
                 }
             ],
             "sesHoraires": [
@@ -4680,6 +6144,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Pain d'épices de Dijon"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de lapin aux pistaches"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lotte à la crème de homard"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Charlotte aux poires et chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de daurade aux fruits de la passion"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Ris de veau aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème brûlée à la fève tonka"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de cèpes au foie gras"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Magret de canard au miel et épices"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Fraisier à la crème mousseline"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de homard aux mangues"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de bœuf maturée sauce bordelaise"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau opéra café-chocolat"
                 }
             ],
             "sesHoraires": [
@@ -4725,6 +6237,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Galette charentaise"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Saint-Jacques snackées aux agrumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeonneau en deux cuissons"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Pavlova aux fruits rouges"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crème de potimarron aux éclats de châtaignes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pintade fermière aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest aux noisettes caramélisées"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Œuf parfait aux champignons des bois"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar en croûte de sel au fenouil"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux pommes et calvados"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Saumon gravlax à l'aneth"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Quasi de veau aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé au Grand Marnier"
                 }
             ],
             "sesHoraires": [
@@ -4770,6 +6330,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gâteau basque"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de thon au gingembre et citron vert"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf aux cèpes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Dôme au chocolat et sa crème anglaise"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de homard à la bisque safranée"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré d'agneau en croûte d'herbes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au citron meringuée déstructurée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Royale de foie gras au porto"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Turbot rôti aux asperges vertes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille à la vanille de Tahiti"
                 }
             ],
             "sesHoraires": [
@@ -4815,6 +6411,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Fiadone"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté Dubarry à la truffe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Pierre aux artichauts violets"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Religieuse au café"
                 }
             ],
             "sesHoraires": [
@@ -4860,6 +6468,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Quernons d'ardoise"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Langoustines rôties au beurre demi-sel"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Selle d'agneau aux herbes fraîches"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mont-blanc aux marrons glacés"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de crabe aux herbes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de biche sauce poivrade"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Croustillant praliné-noisette"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade tiède de rougets aux herbes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de veau aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Dacquoise aux framboises"
                 }
             ],
             "sesHoraires": [
@@ -4905,6 +6549,30 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Macaron d'Amiens"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Foie gras poêlé aux pommes caramélisées"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeon en croûte de noisettes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé glacé au citron"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ballottine de volaille aux truffes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Queue de lotte au safran"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux abricots rôtis"
                 }
             ],
             "sesHoraires": [
@@ -4950,6 +6618,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Poire tapée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de poisson de roche et sa rouille"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poularde de Bresse aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Profiteroles au chocolat Valrhona"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tarte fine aux champignons sauvages"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lotte à l'armoricaine"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Fraisier à la crème diplomate"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Céviche de bar aux agrumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Ris de veau dorés aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Opéra café-chocolat"
                 }
             ],
             "sesHoraires": [
@@ -4995,6 +6699,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Biscuit rose de Reims"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de Saint-Jacques au citron vert"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Agneau confit aux épices douces"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Saint-Honoré à la vanille de Tahiti"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de ris de veau aux cèpes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar entier au sel de Guérande"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au chocolat grand cru"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Mousseline de brochet aux écrevisses"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Magret de canard au miel et romarin"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mille-feuille aux fruits rouges"
                 }
             ],
             "sesHoraires": [
@@ -5040,6 +6780,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte aux myrtilles"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crème de potimarron aux noix de Saint-Jacques"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de canette aux figues"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Tatin aux coings"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Marbré de foie gras aux figues"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Chapon farci aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Pavlova aux fruits exotiques"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de veau aux huîtres"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf en croûte"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème brûlée à la pistache"
                 }
             ],
             "sesHoraires": [
@@ -5085,6 +6861,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Crème catalane"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Huîtres chaudes au sabayon de champagne"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bar en écailles de truffe"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Fondant au chocolat cœur framboise"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de dorade aux fruits de la passion"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de bœuf maturée sauce périgourdine"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Charlotte aux poires et chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de foie gras à la truffe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sole aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Entremet passion-mangue"
                 }
             ],
             "sesHoraires": [
@@ -5130,6 +6942,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Teurgoule"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de faisan aux pistaches"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Turbot braisé au champagne"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau royal au chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de homard aux agrumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeonneau rôti aux raisins"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille à la vanille de Madagascar"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de cèpes aux châtaignes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Noisette de chevreuil sauce grand veneur"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Baba au rhum aux fruits confits"
                 }
             ],
             "sesHoraires": [
@@ -5175,6 +7023,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Clafoutis aux cerises"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Croustillant de gambas aux herbes fraîches"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré d'agneau en croûte de romarin"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé au chocolat et sa crème anglaise"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Médaillon de langouste en gelée"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Tournedos de veau aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux poires et amandes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Feuilleté d'escargots à la bourguignonne"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Pierre aux coques"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest croustillant"
                 }
             ],
             "sesHoraires": [
@@ -5220,6 +7104,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Broyé du Poitou"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Pressé de foie gras au Sauternes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar en croûte de sel"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Tatin traditionnelle"
                 }
             ],
             "sesHoraires": [
@@ -5265,6 +7161,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Paris-Brest"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de noix de Saint-Jacques"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Suprême de volaille aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux abricots"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de poissons de roche"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Daube de bœuf provençale"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème caramel à l'ancienne"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Bisque de homard au cognac"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Magret de canard au miel"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Île flottante aux pralines roses"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soufflé au fromage"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rognons de veau à la moutarde"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille aux fraises"
                 }
             ],
             "sesHoraires": [
@@ -5310,6 +7254,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Crêpes au caramel beurre salé"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de cèpes aux marrons"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sole meunière aux amandes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Forêt noire contemporaine"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de gibier aux fruits secs"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rôti de lotte au lard"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau basque à la cerise noire"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Œufs brouillés aux truffes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Gigot d'agneau au romarin"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Profiteroles au chocolat noir"
                 }
             ],
             "sesHoraires": [
@@ -5355,6 +7335,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Navettes provençales"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de thon rouge aux épices"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de bœuf maturée sauce béarnaise"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Saint-Honoré chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crème de potimarron aux noisettes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeon en deux cuissons"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille praliné noisette"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de homard bleu"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de biche sauce poivrade"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Bourdaloue revisitée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Langoustines rôties au beurre d'agrumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Ris de veau braisé aux cèpes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Charlotte aux fruits exotiques"
                 }
             ],
             "sesHoraires": [
@@ -5400,6 +7428,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Poire pochée au vin"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de queue de bœuf tiède"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Volaille de Bresse aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au citron meringuée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Asperges vertes et œuf parfait"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lotte rôtie au safran"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Moelleux au chocolat Guanaja"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Foie gras de canard mi-cuit"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Quasi de veau aux chanterelles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Baba au rhum façon Tatin"
                 }
             ],
             "sesHoraires": [
@@ -5445,6 +7509,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Cannelés"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tatin d'endives au chèvre"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Pierre aux artichauts barigoule"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Religieuse au café"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tourteau en rémoulade aux pommes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Agneau de lait des Pyrénées"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Pavlova aux fruits rouges"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de homard à la citronnelle"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bar au beurre blanc"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest à la pistache"
                 }
             ],
             "sesHoraires": [
@@ -5490,6 +7590,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte aux myrtilles"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Céviche de daurade royale"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de veau fermière aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau opéra traditionnel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Pâté en croûte de volaille et foie gras"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Turbot rôti aux agrumes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé au Grand Marnier"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crème de champignons au lard fumé"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Canette aux pêches rôties"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mille-feuille vanille-caramel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Huîtres gratinées au champagne"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré de cochon ibérique"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux pommes et calvados"
                 }
             ],
             "sesHoraires": [
@@ -5535,6 +7683,30 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Île flottante"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de veau aux huîtres plates"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Croustillant au chocolat et praliné"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Saumon fumé maison et ses blinis"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeon rôti au jus de truffe"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte aux fraises des bois"
                 }
             ],
             "sesHoraires": [
@@ -5580,6 +7752,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gâteau aux noix"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de langoustines"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pintade fermière rôtie"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille aux fruits rouges"
                 }
             ],
             "sesHoraires": [
@@ -5625,6 +7809,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte praline"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de poissons de roche"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rôti de veau aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tiramisu aux marrons glacés"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de Saint-Jacques"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poulet fermier aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux poires"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade tiède de gambas"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar en croûte de sel"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Moelleux au chocolat et sa glace vanille"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Royale de foie gras"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré d'agneau aux herbes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Saint-Honoré à la vanille"
                 }
             ],
             "sesHoraires": [
@@ -5670,6 +7902,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gâteau aux pignons"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crème de chou-fleur aux noix"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sole farcie aux champignons"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au chocolat Valrhona"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Marbré de foie gras au Porto"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Ris de veau aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Profiteroles au chocolat chaud"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de homard à l'avocat"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de bœuf maturée"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Vacherin glacé vanille-framboise"
                 }
             ],
             "sesHoraires": [
@@ -5715,6 +7983,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte aux fruits des bois"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Croustillant de chèvre au miel"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Jacques à la plancha"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tartelette chocolat-framboise"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Foie gras au torchon maison"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Agneau de sept heures"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Baba au rhum aux agrumes"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de potiron aux marrons"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sandre au beurre blanc"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille à la crème de marron"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de daurade aux agrumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Magret de canard aux cerises"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest à la noisette"
                 }
             ],
             "sesHoraires": [
@@ -5760,6 +8076,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Navettes marseillaises"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de caille aux raisins"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de turbot aux asperges vertes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux pommes caramélisées"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de châtaignes au foie gras"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeonneau en croûte de sel"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème brûlée à la vanille bourbon"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tarte fine aux champignons des bois"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Dos de cabillaud au chorizo"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Pavlova aux fruits de la passion"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Œuf cocotte aux truffes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de biche sauce grand veneur"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé glacé à la mandarine"
                 }
             ],
             "sesHoraires": [
@@ -5805,6 +8169,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Fraises du Périgord"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de sanglier aux pistaches"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Suprême de volaille aux écrevisses"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Dacquoise aux fruits rouges"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de saumon label rouge aux herbes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Porc ibérique à la sauge"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau au chocolat et praliné"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de homard à la bisque"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de veau aux cèpes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Fondant au chocolat cœur caramel"
                 }
             ],
             "sesHoraires": [
@@ -5850,6 +8250,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Crème au caramel beurre salé"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Nem de canard confit aux légumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar grillé au fenouil sauvage"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mille-feuille aux trois chocolats"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de panais aux éclats de noisettes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Tournedos de canard au poivre vert"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Tatin aux abricots"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de ris de veau aux girolles"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lotte à l'américaine"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Charlotte aux pêches blanches"
                 }
             ],
             "sesHoraires": [
@@ -5895,6 +8331,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte aux pralines"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de poulpe à l'huile d'olive"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf Rossini"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au citron meringuée déstructurée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Flan de légumes aux truffes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rognonnade de veau aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crumble pommes-poires à la cannelle"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Queue de langoustine en tempura"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré d'agneau en croûte d'olive"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Fraisier à la crème de pistache"
                 }
             ],
             "sesHoraires": [
@@ -5940,6 +8412,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Crème catalane"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Foie gras poêlé aux pommes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Canard à l'orange tradition"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mousse au chocolat Valrhona"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crème de céleri à la truffe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Pierre aux artichauts"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest traditionnel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de veau au parmesan"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sole belle meunière"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Biscuit roulé à la framboise"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Asperges blanches sauce mousseline"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de bœuf à la bordelaise"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau au chocolat mi-cuit"
                 }
             ],
             "sesHoraires": [
@@ -5985,6 +8505,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte aux myrtilles"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de dorade à la mangue"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Volaille des Landes aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux figues et miel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de homard bleu de Bretagne"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bar sauvage au fenouil"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crémeux chocolat-caramel"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de ricotta à la truffe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeon rôti au miel de thym"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Croustillant praliné noisette"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de poisson de roche"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Grillade de lotte au lard"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte aux noix et caramel"
                 }
             ],
             "sesHoraires": [
@@ -6030,6 +8598,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Pastis gascon"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Méli-mélo de légumes croquants"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Épaule d'agneau confite aux épices"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Bourdaloue aux poires"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de lapin aux noisettes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lieu jaune en croûte de chorizo"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Sablé breton aux fraises"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Croustillant de langoustines au basilic"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Quasi de veau aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé au chocolat Guanaja"
                 }
             ],
             "sesHoraires": [
@@ -6075,6 +8679,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Macaron de Nancy"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ballottine de volaille aux pistaches"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de bœuf au foin et son jus corsé"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Pavlova aux fruits exotiques"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Noix de Saint-Jacques à la plancha"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poularde de Bresse à la crème"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Dôme chocolat passion"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Mousseline de brochet aux écrevisses"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré de veau aux herbes fraîches"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mille-feuille à la vanille de Tahiti"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tarte fine aux sardines marinées"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de turbot aux algues"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau nantais au rhum"
                 }
             ],
             "sesHoraires": [
@@ -6120,6 +8772,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Cannelés bordelais"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de courge butternut et châtaignes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré d'agneau en croûte de pistaches"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau opéra café-chocolat"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de langouste aux agrumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de veau aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Baba au rhum façon mojito"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Œufs en meurette"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de sandre au Champagne"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crêpes Suzette flambées"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crème de topinambours à la truffe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Magret de canard au miel et romarin"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux abricots et amandes"
                 }
             ],
             "sesHoraires": [
@@ -6165,6 +8865,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Crème de calisson"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Bisque de homard au cognac"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bœuf bourguignon traditionnel"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Poire Belle-Hélène revisitée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de poulpe à l'huile d'olive"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Gigot d'agneau à la sarriette"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé au citron vert"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Marbré de foie gras et anguille fumée"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Dos de cabillaud au beurre blanc"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille caramel beurre salé"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de veau aux huîtres"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lapin à la moutarde et aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Financier aux amandes et pistaches"
                 }
             ],
             "sesHoraires": [
@@ -6210,6 +8958,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Dunes blanches"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Royale de cèpes et son émulsion"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Marmite du pêcheur au safran"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mont-blanc aux marrons glacés"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Huîtres chaudes au champagne"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rognons de veau à la moutarde"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tartelette citron-yuzu meringuée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade tiède de queue de homard"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de boeuf aux truffes noires"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Macaron géant aux framboises"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Croustillant de ris de veau aux champignons"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeonneau rôti sur coffre"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Savarin au rhum et fruits exotiques"
                 }
             ],
             "sesHoraires": [
@@ -6255,6 +9051,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte Tatin"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Millefeuille d'aubergines à la mozzarella"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poulet fermier en vessie façon Mère Brazier"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest praliné noisette"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de crabe aux herbes fraîches"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Sole meunière aux amandes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Île flottante aux pralines roses"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Pressé de foie gras aux figues"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Suprême de pintade farci aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au chocolat grand cru Guanaja"
                 }
             ],
             "sesHoraires": [
@@ -6300,6 +9132,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gâteau de Savoie"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Crème de châtaignes aux copeaux de jambon"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Saint-Pierre rôti au beurre blanc"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé glacé à la chartreuse"
                 }
             ],
             "sesHoraires": [
@@ -6345,6 +9189,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Kougelhopf glacé"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare d'huîtres au caviar"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Ris de veau aux asperges"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Charlotte aux poires"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe de poissons de roche et sa rouille"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Agneau confit de 7 heures aux épices douces"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Gâteau basque à la cerise noire"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Feuilleté d'escargots à la crème d'ail"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Queue de lotte à l'armoricaine"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Coulant au chocolat et sa glace pralinée"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade périgourdine aux gésiers confits"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Caille farcie au foie gras"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte fine aux pommes et calvados"
                 }
             ],
             "sesHoraires": [
@@ -6390,6 +9282,54 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte tropézienne"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de canard à l'orange"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Daurade royale en papillote aux herbes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crumble aux pommes et fruits rouges"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de champignons aux éclats de noisettes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré de porc ibérique laqué au miel"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Mille-feuille aux fruits de saison"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de Saint-Jacques aux agrumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Poitrine de volaille farcie aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Éclair au chocolat grand cru"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tarte fine aux légumes confits"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rôti de lotte au lard fumé"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Fraisier à la crème légère"
                 }
             ],
             "sesHoraires": [
@@ -6435,6 +9375,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Pogne de Romans"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Gaspacho andalou et ses croûtons à l'ail"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bouillabaisse marseillaise traditionnelle"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte tropézienne"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Langoustines rôties au beurre d'agrumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Canette aux pêches rôties"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Saint-Honoré à la vanille"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Croustillant de gambas au basilic"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pavé de biche sauce grand veneur"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Religieuse au café"
                 }
             ],
             "sesHoraires": [
@@ -6480,6 +9456,42 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Profiteroles"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Saumon gravlax aux agrumes et aneth"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet mignon en croûte de moutarde à l'ancienne"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Cheesecake aux fruits rouges et son coulis"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Salade de homard aux mangues et avocats"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de veau aux girolles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tiramisu aux spéculoos"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartine de pain de campagne aux champignons sauvages"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Rôti de chapon farci aux marrons"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Opéra café-chocolat"
                 }
             ],
             "sesHoraires": [
@@ -6525,6 +9537,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gâteau basque"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Pâté en croûte fait maison"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Turbot rôti, sauce champagne"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Entremet chocolat-passion"
                 }
             ],
             "sesHoraires": [
@@ -6570,6 +9594,30 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Fourme d'Ambert"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Terrine de gibier aux pistaches"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pintade fermière aux morilles"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte Tatin et sa glace à la vanille"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Asperges vertes, œuf mollet et truffe"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Gigot d'agneau de 7 heures aux épices"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Parfait glacé au café et ses macarons"
                 }
             ],
             "sesHoraires": [
@@ -6615,6 +9663,30 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte aux pralines"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de thon rouge aux saveurs asiatiques"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bœuf Wellington"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Baba au rhum et sa chantilly maison"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Duo de foie gras mi-cuit et poêlé"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Pigeon rôti aux figues et miel"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Sphère au chocolat et son cœur coulant caramel"
                 }
             ],
             "sesHoraires": [
@@ -6660,6 +9732,30 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte tropézienne"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Saint-Jacques snackées sur lit de poireaux"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Lotte rôtie au lard et son risotto noir"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Soufflé au Grand Marnier"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ravioles de homard, bisque crémeuse"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Bar entier en croûte de sel"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Vacherin glacé aux fruits exotiques"
                 }
             ],
             "sesHoraires": [
@@ -6705,6 +9801,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Tarte aux myrtilles"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Œuf parfait et sa crème de morilles"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Carré d'agneau en croûte d'herbes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Millefeuille à la vanille de Madagascar"
                 }
             ],
             "sesHoraires": [
@@ -6750,6 +9858,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Fiadone"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Ceviche de daurade royale aux agrumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Tournedos Rossini et son foie gras poêlé"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Paris-Brest aux amandes caramélisées"
                 }
             ],
             "sesHoraires": [
@@ -6795,6 +9915,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Kougelhopf"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Burrata crémeuse et tomates cerises confites"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Côte de bœuf maturée pour deux personnes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Forêt noire revisitée"
                 }
             ],
             "sesHoraires": [
@@ -6840,6 +9972,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Mirabelles"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Carpaccio de bœuf au parmesan"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Risotto aux cèpes et truffe noire"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Profiteroles au chocolat chaud"
                 }
             ],
             "sesHoraires": [
@@ -6885,6 +10029,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Gâche vendéenne"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Velouté de potimarron aux châtaignes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Dos de cabillaud en écailles de chorizo"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Tarte au citron meringuée"
                 }
             ],
             "sesHoraires": [
@@ -6930,6 +10086,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Zézettes de Sète"
+                },
+                {
+                    "type_menu": "Entrée", 
+                    "descriptionMenu": "Foie gras maison et sa brioche toastée"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Souris d'agneau confite aux épices"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Pavlova aux fruits rouges"
                 }
             ],
             "sesHoraires": [
@@ -6975,6 +10143,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Rissoles"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Tartare de saumon aux agrumes"
+                },
+                {
+                    "type_menu": "Plat principal",
+                    "descriptionMenu": "Filet de bar en croûte d'herbes"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Moelleux au chocolat et sa boule de glace vanille"
                 }
             ],
             "sesHoraires": [
@@ -7020,6 +10200,18 @@
                 {
                     "type_menu": "Dessert",
                     "descriptionMenu": "Cannelés bordelais"
+                },
+                {
+                    "type_menu": "Entrée",
+                    "descriptionMenu": "Soupe à l'oignon gratinée"
+                },
+                {
+                    "type_menu": "Plat principal", 
+                    "descriptionMenu": "Magret de canard au miel et romarin"
+                },
+                {
+                    "type_menu": "Dessert",
+                    "descriptionMenu": "Crème brûlée à la vanille"
                 }
             ],
             "sesHoraires": [
