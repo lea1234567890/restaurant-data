@@ -10489,10 +10489,7 @@
             "note": 5
         }
     ]
-}, 
-        {
-    "restaurants": [
-        {
+}, {
             "nom": "Le Jardin Secret",
             "adresse": "5 Rue de Rivoli, 75004 Paris",
             "latitude": 48.8556,
@@ -10605,9 +10602,7 @@
                     "note": 5
                 }
             ]
-        }
-    ]
-}, 
+        }, 
         {
     "nom": "Le Bistrot Parisien",
     "adresse": "8 Rue de la Roquette, 75011 Paris",
