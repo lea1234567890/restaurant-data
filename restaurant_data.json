@@ -10977,9 +10977,7 @@
             "note": 5
         }
     ]
-},
-
-{
+},{
     "nom": "Le Comptoir Moderne",
     "adresse": "42 Rue de Bretagne, 75003 Paris",
     "latitude": 48.8639,
@@ -11043,8 +11041,7 @@
             "note": 5
         }
     ]
-},
-        {
+},{
     "nom": "La Table d'Auguste",
     "adresse": "54 Avenue de la Bourdonnais, 75007 Paris",
     "latitude": 48.8592,
