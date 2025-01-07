@@ -2902,59 +2902,6 @@
             ]
         },
         {
-            "nom": "Le 20123",
-            "adresse": "Place de la République, Ajaccio",
-            "latitude": 41.9192,
-            "longitude": 8.7386,
-            "image": "ajaccio_prestige.jpg",
-            "sesMenus": [
-                {
-                    "type_menu": "Entrée",
-                    "descriptionMenu": "Crème de champignons sauvages"
-                },
-                {
-                    "type_menu": "Plat principal",
-                    "descriptionMenu": "Bar rôti aux herbes"
-                },
-                {
-                    "type_menu": "Dessert",
-                    "descriptionMenu": "Nougat glacé"
-                }
-            ],
-            "sesHoraires": [
-                {
-                    "jour": "Jeudi",
-                    "ouverture": "12:00 - 14:00"
-                },
-                {
-                    "jour": "Dimanche",
-                    "ouverture": "19:00 - 23:00"
-                },
-                {
-                    "jour": "Lundi",
-                    "ouverture": "12:00 - 14:00"
-                },
-                {
-                    "jour": "Vendredi",
-                    "ouverture": "12:00 - 14:00"
-                }
-            ],
-            "sesCommentaires": [
-                {
-                    "contenu": "Une présentation soignée et élégante.",
-                    "note": 5
-                },
-                {
-                    "contenu": "Un service attentionné et souriant.",
-                    "note": 4
-                },
-                {
-                    "contenu": "Superbe Crème de champignons sauvages, délicieux Bar rôti aux herbes, et un Nougat glacé parfait!",
-                    "note": 5
-                }
-            ]
-        },
-        {
             "nom": "La Ruelle",
             "adresse": "Place de la République, Angoulême",
             "latitude": 45.6499,
